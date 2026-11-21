@@ -2,6 +2,13 @@
 
 An educational computer vision project developed during my **Artificial Intelligence diploma**. I implemented and trained a convolutional neural network (CNN) in **PyTorch** to classify the ten object categories in [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
 
+## Visual overview
+
+![CNN image classification workflow](images/cnn-workflow.svg)
+
+*Conceptual architecture illustration, not a screenshot of model predictions.* The notebook contains prediction visualizations; actual screenshots can be added to `images/` when exported from a verified run.
+
+
 ## Project overview
 - **Task:** Multi-class classification (ten CIFAR-10 categories).
 - **Architecture:** Three convolutional layers (32, 64, 128 channels), max pooling and fully connected layers.
