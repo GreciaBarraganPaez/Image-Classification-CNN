@@ -4,7 +4,6 @@ An educational computer vision project developed during my **Artificial Intellig
 
 ## Visual overview
 
-![CNN image classification workflow](images/cnn-workflow.svg)
 
 *Conceptual architecture illustration, not a screenshot of model predictions.* The notebook contains prediction visualizations; actual screenshots can be added to `images/` when exported from a verified run.
 
@@ -33,3 +32,8 @@ The original notebook used random augmentation on the test set; the publication 
 
 ## Skills
 Python · PyTorch · CNN · Computer Vision · Model Training · Evaluation
+
+
+## Experimental images
+
+No experimentally verified images are included yet. Real code outputs (or photographs of the actual hardware for Arduino) will be added when available. Conceptual diagrams are not presented as measured results.
